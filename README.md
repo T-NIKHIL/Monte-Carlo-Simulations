@@ -4,6 +4,8 @@ This repository contains the code, input, output and latex files for the two pro
 
 Advertisement N0. CDS/DS/MHRD-STARS/Jul-2020/PA Date : 27/07/2020.
 
+The programing task questions can be viewed from the uploaded pdf file
+
 The file hierarchy is as follows :
 
 1. Task 1 folder
